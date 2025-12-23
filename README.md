@@ -17,5 +17,7 @@ Focus AI is a prototype designed to bridge the gap between dense academic curric
 
 ### Presentation & Resources
 For a full breakdown of the buisness model and technical architecture, view the project presentation here: [**Pdf file with explanation** ] (https://drive.google.com/file/d/10h7yJy8fn7ziA1ULskYbLXObQ9k10xmK/view?usp=sharing)
+
 ---
+
 *Created by Mayssae El Bazi as a part of a mission to democratize high-level eductional tools.*

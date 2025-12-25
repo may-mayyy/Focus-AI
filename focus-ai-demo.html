@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Focus AI - Super Simple Demo</title>
+</head>
+<body>
+  <h1>Focus AI - Very Simple Demo</h1>
+
+  <p><strong>Question:</strong> What is 2 + 2?</p>
+
+  <!-- User chooses an answer -->
+  <button onclick="checkAnswer(3)">3</button>
+  <button onclick="checkAnswer(4)">4</button>
+  <button onclick="checkAnswer(5)">5</button>
+
+  <h2>Result</h2>
+  <p id="result-text">Choose an answer above.</p>
+
+  <h2>Micro-Lesson</h2>
+  <p id="lesson-text">If you get it wrong, a short explanation will appear here.</p>
+
+  <script>
+    // This function runs when a button is clicked
+    function checkAnswer(userAnswer) {
+      var resultText = document.getElementById("result-text");
+      var lessonText = document.getElementById("lesson-text");
+
+      if (userAnswer === 4) {
+        // Correct answer
+        resultText.textContent = "Correct! 2 + 2 = 4.";
+        lessonText.textContent = "Nice job! You already understand this. In math, 2 + 2 means you are adding two groups of 2 together: 2 + 2 = 4.";
+      } else {
+        // Wrong answer
+        resultText.textContent = "Not quite. Try again!";
+        lessonText.textContent = "Think of 2 + 2 as two groups of 2. If you have 2 apples and you get 2 more, you now have 4 apples.";
+      }
+    }
+  </script>
+</body>
+</html>

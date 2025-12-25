@@ -31,6 +31,12 @@ Focus AI uses an AI-driven assessment loop to:
    Each attempt is logged so students can see their journey from confusion to mastery over time.
 More info beneath: 
 
+### Target Users
+
+* **High school students** preparing for exams and needing help identifying weak spots.
+* **University students** dealing with dense lectures and complex readings.
+* **Self-learners** exploring new subjects without formal classes.
+* **Busy learners** who only have short time blocks and need efficient, focused study sessions.
 
 ### Watch the demo & workshop 
 * [**Link to app prototype** ] (https://focus-ai-992a44d4.base44.app)

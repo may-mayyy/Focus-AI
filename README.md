@@ -18,6 +18,19 @@ Focus AI uses an AI-driven assessment loop to:
 * Recommend videos and resources only when needed
 * Track progress from “needs study” to “mastered”
 
+### How It Works
+1. **Diagnostic Quiz**  
+   The student answers a short, targeted quiz on a specific topic.
+2. **Gap Detection**  
+   Focus AI analyzes the responses to find exactly which concepts are not yet mastered.
+3. **Micro-Lesson Generation**  
+   The system generates short, focused explanations and examples tailored to the student’s needs.
+4. **Optional Video Support**  
+   When helpful, Focus AI suggests relevant videos for visual learners.
+5. **Progress Tracking**  
+   Each attempt is logged so students can see their journey from confusion to mastery over time.
+More info beneath: 
+
 
 ### Watch the demo & workshop 
 * [**Link to app prototype** ] (https://focus-ai-992a44d4.base44.app)

@@ -55,6 +55,10 @@ You can try Focus AI directly in your browser — no installation required:
 **Live prototype:** https://focus-ai-992a44d4.base44.app
 If the page doesn’t load right away, refresh and wait a few seconds, the prototype may need time to initialize.
 
+### Disclaimer
+Focus AI is an early-stage prototype created for learning and experimentation.  
+It is not a finalized product, and features may change as the project evolves.
+
 
 
 ### Presentation & Resources

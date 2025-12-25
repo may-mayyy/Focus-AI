@@ -50,6 +50,12 @@ Focus AI is a prototype designed to bridge the gap between dense academic curric
 - Ability to save personal notes inside lessons.
 - Built-in review mode for concepts previously marked as “needs study.”
 
+### Installation / Try It
+You can try Focus AI directly in your browser — no installation required:
+**Live prototype:** https://focus-ai-992a44d4.base44.app
+If the page doesn’t load right away, refresh and wait a few seconds, the prototype may need time to initialize.
+
+
 
 ### Presentation & Resources
 For a full breakdown of the business model and technical architecture, view the project presentation here: [**Pdf file with explanation** ] (https://drive.google.com/file/d/10h7yJy8fn7ziA1ULskYbLXObQ9k10xmK/view?usp=sharing)

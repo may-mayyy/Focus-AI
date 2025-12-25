@@ -4,6 +4,21 @@
 ### ¨Project Overview
 Focus AI is a prototype designed to bridge the gap between dense academic curricula and student retention. Using an **AI-driven Assessment Loop**, the platform identifies exactly where a student's knowledge gaps lie and provides the specific resources needed to bridge them. 
 
+### Problem
+Many students struggle to keep up with dense academic content and long curricula.  
+Traditional study methods often fail to:
+* Identify specific knowledge gaps
+* Adapt to each student’s pace
+* Keep learners motivated over time
+
+### Solution
+Focus AI uses an AI-driven assessment loop to:
+* Diagnose what a student does and doesn’t understand
+* Generate short, targeted micro-lessons
+* Recommend videos and resources only when needed
+* Track progress from “needs study” to “mastered”
+
+
 ### Watch the demo & workshop 
 * [**Link to app prototype** ] (https://focus-ai-992a44d4.base44.app)
 * [**Watch the demo video** ] (https://drive.google.com/file/d/1Sk1tD2xA0zRqFg2DUdhqPq3icK982d_f/view)

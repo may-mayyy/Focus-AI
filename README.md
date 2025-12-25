@@ -1,5 +1,5 @@
 # Focus AI 
-** Personalized AI-Generated Micro-Lessons for Accelerated Learning** 
+**Personalized AI-Generated Micro-Lessons for Accelerated Learning** 
 
 ### ¨Project Overview
 Focus AI is a prototype designed to bridge the gap between dense academic curricula and student retention. Using an **AI-driven Assessment Loop**, the platform identifies exactly where a student's knowledge gaps lie and provides the specific resources needed to bridge them. 
@@ -8,6 +8,18 @@ Focus AI is a prototype designed to bridge the gap between dense academic curric
 * [**Link to app prototype** ] (https://focus-ai-992a44d4.base44.app)
 * [**Watch the demo video** ] (https://drive.google.com/file/d/1Sk1tD2xA0zRqFg2DUdhqPq3icK982d_f/view)
 
+### Tech Stack
+
+**AI & Logic**
+* Large Language Model (LLM) for generating personalized micro-lessons
+* AI-driven assessment loop to detect knowledge gaps in real time
+  
+**Data & Tracking**
+* Progress logging system to track learning status from “needs study” to “mastered”
+
+**Developer Tools**
+* GitHub for version control and project hosting
+  
 ### Core features
 
 * **Intelligent Diagnostic Quiz:** The AI evaluates your current mastery level to decide-in real-time-if you require further study or are ready to move on. 

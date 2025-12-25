@@ -17,6 +17,7 @@ Focus AI uses an AI-driven assessment loop to:
 * Generate short, targeted micro-lessons
 * Recommend videos and resources only when needed
 * Track progress from “needs study” to “mastered”
+* 
 
 ### How It Works
 1. **Diagnostic Quiz**  
@@ -32,11 +33,16 @@ Focus AI uses an AI-driven assessment loop to:
 More info beneath: 
 
 ### Target Users
-
 * **High school students** preparing for exams and needing help identifying weak spots.
 * **University students** dealing with dense lectures and complex readings.
 * **Self-learners** exploring new subjects without formal classes.
 * **Busy learners** who only have short time blocks and need efficient, focused study sessions.
+
+### Design Principles
+* **Micro over macro:** Keep lessons short and focused so students can learn in small, achievable steps.
+* **Personalization first:** Adapt content to each learner instead of forcing everyone through the same path.
+* **Clarity over complexity:** Explanations prioritize plain language and concrete examples.
+* **Feedback-driven:** Use quiz results and progress data to continuously improve recommendations.
 
 ### Watch the demo & workshop 
 * [**Link to app prototype** ] (https://focus-ai-992a44d4.base44.app)

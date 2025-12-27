@@ -132,5 +132,7 @@ These are areas I plan to improve as the project grows.
 
 
 ---
+*If you’re an educator, student, or developer and would like to test or improve FocusAI, I’d love feedback.  
+I’m especially interested in ideas around spaced repetition, accessibility, and ethical AI in education.*
 
 *Created by Mayssae El Bazi as a part of a mission to democratize high-level educational tools.*

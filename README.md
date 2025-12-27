@@ -90,6 +90,8 @@ More info beneath:
 - Ability to save personal notes inside lessons.
 - Built-in review mode for concepts previously marked as “needs study.”
 
+
+
 ### Installation / Try It
 You can try Focus AI directly in your browser — no installation required:
 **Live prototype:** https://focus-ai-992a44d4.base44.app
@@ -99,10 +101,35 @@ If the page doesn’t load right away, refresh and wait a few seconds, the proto
 Focus AI is an early-stage prototype created for learning and experimentation.  
 It is not a finalized product, and features may change as the project evolves.
 
+###  Pilot Results & Impact
 
+FocusAI was piloted informally with more than **50 students** at my school. Students shared that the tool helped them:
+
+* quickly identify specific weak concepts  
+* avoid wasting time re-studying material they already understood  
+* feel less overwhelmed before exams  
+
+Teachers who saw the prototype appreciated that the explanations stayed short and targeted, instead of replacing notes with even more text.
 
 ### Presentation & Resources
 For a full breakdown of the business model and technical architecture, view the project presentation here: [**Pdf file with explanation** ] (https://drive.google.com/file/d/10h7yJy8fn7ziA1ULskYbLXObQ9k10xmK/view?usp=sharing)
+
+###  What I Learned While Building FocusAI
+
+* how to design learning flows that adapt to different students  
+* how to structure AI prompts so explanations stay clear and step-by-step  
+* how to debug logic when mastery tracking didn’t behave as expected
+*  how to iterate based on real user feedback instead of assumptions
+
+ ###  Current Limitations
+
+FocusAI is an early prototype. Some limitations include:
+
+* Not every topic gets a YouTube video 
+* recommendations are based on limited pilot data  
+
+These are areas I plan to improve as the project grows.
+
 
 ---
 
